@@ -11,5 +11,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquell2005&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Raquell2005&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
- <img src="https://raw.githubusercontent.com/Raquell2005/Raquell2005/output/github-contribution-grid-snake.svg">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raquell2005/Raquell2005//output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Raquell2005/Raquell2005/output/github-contribution-grid-snake.svg">
+</picture>
