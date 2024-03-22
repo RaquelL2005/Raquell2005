@@ -1,4 +1,4 @@
-# Hello devs, me chamo Raquell ! 
+# Hello World, me chamo Raquell ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 👯 Estou procurando ajuda em projetos que agregem algum valor no meu desenvovolvimento pessoal e profissional
